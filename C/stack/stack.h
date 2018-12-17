@@ -14,6 +14,7 @@ struct Node
 //----------------------------
 // Prototypes
 //----------------------------
+Stack init(Stack S); //     initializing stack S
 Position Top(Stack S);  //      return the node at top of the stack
 
 
