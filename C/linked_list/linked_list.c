@@ -7,8 +7,10 @@
 int main(void){
     List L = init(L);
     insert(L, 1);
-    insert(L, 2);
+    insert(L, 2);   
 
+
+    
 
 
 }
