@@ -6,5 +6,6 @@ If you only want to take the functions, just copy the .h file.
 Data structure created so far are:
 * Linked List
 * Stack
+* Queue
 
 Enjoy!
