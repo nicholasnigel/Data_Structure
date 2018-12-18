@@ -46,7 +46,9 @@ Stack init(Stack S)
  */
 bool isEmpty(Stack S)
 {
-    return S->next == NULL;
+    if(S->next == NULL) return true;
+    else return false;
+
 }
 
 /**
