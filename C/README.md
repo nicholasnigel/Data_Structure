@@ -7,5 +7,6 @@ Data structure created so far are:
 * Linked List
 * Stack
 * Queue
+* Binary Tree
 
 Enjoy!
