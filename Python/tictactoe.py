@@ -43,11 +43,11 @@ class TicTacToe:
             print 'skip'
         
         elif self.currentPlayer == 1:
-            button["text"] = 'X'
+            button["text"] = 'CALEB'
             self.currentPlayer = self.currentPlayer * -1
 
         elif self.currentPlayer == -1:
-            button["text"] = 'O'
+            button["text"] = 'CARISSA'
             self.currentPlayer = self.currentPlayer * -1
         #tkMessageBox.showinfo("Alert!", "Time to fly")
 
